@@ -1,0 +1,7 @@
+*.*
+!.gitignore
+!ToyModel/*
+!cobratoolbox/*
+!functions/*
+test5
+dcFBA/
